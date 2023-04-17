@@ -1,4 +1,4 @@
 all:
 	git add *
-	git commit -m 'Update Content'
+	git commit -m 'Update Content $1'
 	git push
