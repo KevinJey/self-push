@@ -1,0 +1,57 @@
+kmd debug
+ (System) ProxyLinkDevice Enter
+ (System) ProxyLinkDevice Exit (0x0)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0x0)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0xc00000bb)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0x0)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0x0)
+ (System) ProxyQueryAdapterInfo Enter
+ (System) ProxyQueryAdapterInfo Exit (0x0)
+ (System) ProxyExchangePreStartInfo Enter
+ (System) ProxyExchangePreStartInfo Exit (0x0)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0xc00000bb)
+ (System) ProxyStartDevice Enter
+ (System) ProxyStopDeviceAndReleasePostDisplayOwnership Enter
+ (System) ProxyStopDeviceAndReleasePostDisplayOwnership Exit (0xc0000001)
+ (System) ProxyStartDevice Exit (0xc000000d)
+ (System) ProxyCollectDiagnosticInfo Enter
+ (System) ProxyCollectDiagnosticInfo_StartDevice Enter
+ (System) ProxyCollectDiagnosticInfo_StartDevice Exit (0x0)
+ (System) ProxyCollectDiagnosticInfo Exit (0x0)
+ (System) ProxyRemoveDevice Enter
+ (System) ProxyRemoveDevice Exit (0x0)
+ (System) ProxyUnload Enter
+ (System) ProxyAddDevice Enter
+ (System) ProxyAddDevice Exit (0x0)
+ (System) ProxyLinkDevice Enter
+ (System) ProxyLinkDevice Exit (0x0)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0x0)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0xc00000bb)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0x0)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0x0)
+ (System) ProxyQueryAdapterInfo Enter
+ (System) ProxyQueryAdapterInfo Exit (0x0)
+ (System) ProxyExchangePreStartInfo Enter
+ (System) ProxyExchangePreStartInfo Exit (0x0)
+ (System) ProxyQueryInterface Enter
+ (System) ProxyQueryInterface Exit (0xc00000bb)
+ (System) ProxyStartDevice Enter
+ (System) ProxyStopDeviceAndReleasePostDisplayOwnership Enter
+ (System) ProxyStopDeviceAndReleasePostDisplayOwnership Exit (0xc0000001)
+ (System) ProxyStartDevice Exit (0xc000000d)
+ (System) ProxyCollectDiagnosticInfo Enter
+ (System) ProxyCollectDiagnosticInfo_StartDevice Enter
+ (System) ProxyCollectDiagnosticInfo_StartDevice Exit (0x0)
+ (System) ProxyCollectDiagnosticInfo Exit (0x0)
+ (System) ProxyRemoveDevice Enter
+ (System) ProxyRemoveDevice Exit (0x0)
+ (System) ProxyUnload Enter
