@@ -9,7 +9,7 @@ public:
         left = 0;
         right = nums.size()-1;
         while(left < right){
-
+            
         }
     }
 };
