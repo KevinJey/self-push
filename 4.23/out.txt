@@ -8,7 +8,7 @@ ProxyEscape
 ProxyCreateContext
 ProxyCreateAllocation
 ProxyOpenAllocation
-ProxyDescribeAllocation
+ProxyDescribeAlzlocation
 ProxyPresent
 ProxyDestroyContext
 ProxyCloseAllocation
